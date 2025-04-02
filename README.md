@@ -2,6 +2,7 @@
 
 This repository contains the complete implementation and analysis of a reinforcement learning project using the **Text Flappy Bird Gym** environment. The goal is to train and compare tabular RL agents on a simplified version of the Flappy Bird game.
 
+![Alt Text](imgs/TFB_agent.gif)
 
 
 ## 📁 Contents
