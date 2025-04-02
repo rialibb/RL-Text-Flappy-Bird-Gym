@@ -4,6 +4,8 @@ This repository contains the complete implementation and analysis of a reinforce
 
 ![Alt Text](imgs/TFB_agent.gif)
 
+Throughout the project, we implemented multiple RL agents, performed hyperparameter tuning (learning rate, exploration rate, λ), visualized learned state-value functions using heatmaps, analyzed agent generalization across environment variants, and compared model performance in terms of reward, stability, and learning behavior.
+
 
 ## 📁 Contents
 
