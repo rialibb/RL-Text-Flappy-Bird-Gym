@@ -2,7 +2,7 @@
 
 This repository contains the complete implementation and analysis of a reinforcement learning project using the **Text Flappy Bird Gym** environment. The goal is to train and compare tabular RL agents on a simplified version of the Flappy Bird game.
 
----
+
 
 ## 📁 Contents
 
@@ -10,7 +10,7 @@ This repository contains the complete implementation and analysis of a reinforce
 - `report.pdf` — Final report.
 - `README.md` — Project overview and usage instructions.
 
----
+
 
 ## 🧠 Agents Implemented
 
@@ -21,7 +21,7 @@ This repository contains the complete implementation and analysis of a reinforce
 
 All agents use an $\epsilon$-greedy policy and tabular Q-value updates. The project uses the simplified environment `TextFlappyBird-v0`, which exposes a 2D state: `(horizontal_distance, vertical_offset)`.
 
----
+
 
 ## 🔧 Environment Setup
 
